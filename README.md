@@ -13,3 +13,8 @@ HTML: Structure and content of the application.
 CSS: Styling and layout for a visually appealing interface.
 JavaScript: Core functionality and logic for real-time updates and interactivity.
 DOM Manipulation: Dynamic updating of the application interface based on user input.
+
+OUTPUT:
+![Screenshot 2024-07-31 122452](https://github.com/user-attachments/assets/cffe606a-76da-4750-8c43-04a3402e457d)
+
+
